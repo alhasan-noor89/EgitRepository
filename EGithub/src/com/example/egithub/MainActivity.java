@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		Toast.makeText(this, "This is the first project version",
+		Toast.makeText(this, "This is the second project version commitrd by yassin",
 				Toast.LENGTH_LONG).show();
 	}
 
