@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		Toast.makeText(this, "This is the first project version",
+		Toast.makeText(this, "This is the third project version by noor",
 				Toast.LENGTH_LONG).show();
 	}
 
