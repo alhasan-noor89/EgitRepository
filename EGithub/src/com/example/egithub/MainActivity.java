@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-//dsamvsavnbsxcmv nxbcn,vjk
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 		Toast.makeText(this, "This is the third project version by noor",
 				Toast.LENGTH_LONG).show();
 	}
